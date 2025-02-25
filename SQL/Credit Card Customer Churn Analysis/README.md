@@ -48,7 +48,7 @@ The goal of this project is to perform data analysis to identify and understand 
 - Suggest strategies for retention, such as targeted promotions and customer engagement improvements.
 - Provide data-backed insights to help reduce customer churn.
 
-### 🎯 Dashboard
+### 🎯 Dashboard (Power BI)
 ![image](https://github.com/user-attachments/assets/68f173c9-d46f-4ae6-90c4-962355ec2ca5)
 
 
