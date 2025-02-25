@@ -131,7 +131,7 @@ FROM (
 GROUP BY Credit_Trans_Category
 ORDER BY Churn_Rate DESC;
 
---categorize customers base on credit limit
+--categorize customers based on credit limit
 SELECT
 	CASE
 		WHEN Credit_Limit < 8600 THEN 'Low'
